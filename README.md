@@ -1,5 +1,6 @@
 # Aman_Bhargava
 Aman Bhargava Portfolio
+![](https://github.com/amanbhargava97/Aman_Bhargava/blob/main/images/WhatsApp%20Image%202022-04-27%20at%201.12.26%20PM.jpeg)
 
 
 [# Project 1: Restaurant Recommender](https://github.com/amanbhargava97/Restaurant_Recommend)
