@@ -1,5 +1,5 @@
-# Aman_Bhargava
-Aman Bhargava Portfolio
+# Aman Bhargava
+Hi, My Name is Aman Bhargava. Welcome to my portfoloio!
 ![](https://github.com/amanbhargava97/Aman_Bhargava/blob/main/images/WhatsApp%20Image%202022-04-27%20at%201.12.26%20PM.jpeg)
 
 
