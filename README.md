@@ -1,6 +1,6 @@
 # Aman Bhargava
 ### About me
-![](/images/WhatsApp%20Image%202022-04-27%20at%201.12.26%20PM.jpeg)
+![](/Aman_Bhargava_images/WhatsApp%20Image%202022-04-27%20at%201.12.26%20PM.jpeg)
 My name is Aman Bhargava and I am currently pursuing a Master’s degree in Business Analytics & Information Management Krannert School of Management at Purdue University to further my passion of solving real world problems by creating actionable insights from data to paint a clear picture for the stakeholders.
 
 I am experienced as a supply chain consultant delivering on high value projects across Logistics, Sustainability (Renewable Energy), Material Handling, Packaging, & Working Capital for clients across United States and Europe and am looking for exciting opportunities that I can utilize my skills and experience to help others succeed too.
